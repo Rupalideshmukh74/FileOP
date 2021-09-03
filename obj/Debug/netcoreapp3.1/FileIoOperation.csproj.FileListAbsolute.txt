@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\FileIoOperation\bin\Debug\netcoreapp3.1\FileIoOperation.exe
+C:\Users\admin\source\repos\FileIoOperation\bin\Debug\netcoreapp3.1\FileIoOperation.deps.json
+C:\Users\admin\source\repos\FileIoOperation\bin\Debug\netcoreapp3.1\FileIoOperation.runtimeconfig.json
+C:\Users\admin\source\repos\FileIoOperation\bin\Debug\netcoreapp3.1\FileIoOperation.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FileIoOperation\bin\Debug\netcoreapp3.1\FileIoOperation.dll
+C:\Users\admin\source\repos\FileIoOperation\bin\Debug\netcoreapp3.1\FileIoOperation.pdb
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.AssemblyInfo.cs
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.dll
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.pdb
+C:\Users\admin\source\repos\FileIoOperation\obj\Debug\netcoreapp3.1\FileIoOperation.genruntimeconfig.cache
